@@ -1,5 +1,5 @@
 # postsdemo
-demo project for posts CROD operation with login/logout and signup
+demo project for posts CRUD operation with login/logout and signup
 
 demo.sql is database file
 
